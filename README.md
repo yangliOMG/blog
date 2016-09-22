@@ -1,7 +1,7 @@
-﻿blog
+blog
 ====
 
-my personal blog666666666
+my personal blog
 
 # 目录
 
